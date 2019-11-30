@@ -1,5 +1,5 @@
 # Лендинг studio. (landing Studio )
-Реализован функционал: слайдер, Яндекс карта, фокус элементов при помощи клавиатуры, анимация скролла блока со скиллами (landing Exe. Implemented functions: slider, Yandex map, focus elements using the keyboard, animations scrolling block with the skills)
+Реализован функционал: бургер меню, Google карта, svg иконки (landing Studio. Implemented functions: The burger menu, Google map, svg icons)
 
 ## Инструкция по запуску проекта. (The Instruction for running the project):
 1) Сopy the build folder to your local server
